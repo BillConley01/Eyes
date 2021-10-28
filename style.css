@@ -10,7 +10,7 @@ body {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
-  width: 100%;
+  width: 90%;
   text-align: center;
 }
 .eye {
