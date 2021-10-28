@@ -4,6 +4,8 @@ body {
   background: #14495e;
 }
 
+.eye-container{position: absolute; left: 5%;top: 5%; width: 90%; height: 80%}
+
 .eyes {
   position: absolute;
   top: 50%;
