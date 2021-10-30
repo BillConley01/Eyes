@@ -18,7 +18,7 @@
 <h2>Contributors</h2>
 <ul>
   <li>Bill Conley</li>
-  <li>John Williams</li>
+  <li>Dr. John Williams</li>
  </ul>
 <h2>License</h2>
   <p>MIT License</p>
