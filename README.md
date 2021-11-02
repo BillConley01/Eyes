@@ -1,4 +1,4 @@
-<h1>Eyes With Javascript ES6</h1>
+# Eyes With Javascript ES6
 <p>This code utilizes mouse events to manipulate DOM element properties causing the eyes to follow the movement of the mouse. This code originate from an assignment in Week #8 of MIT's MERN professional certification program. The challenge was to create a second set of eyes add animate them based on mouse events.</p>
 <img src="./eyes.jpg"/>
 <h2>Features</h2>
